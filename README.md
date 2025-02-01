@@ -1,3 +1,3 @@
 THE LINK FOR THE PROTOTYPE IS BELOW
 
-https://www.figma.com/proto/VE3eWXK1OphEwY3880hYg0/WEB-UI-APPLICATION?node-id=6-2&t=k8kKuRywuY3Jch6w-1
+https://www.figma.com/proto/VE3eWXK1OphEwY3880hYg0/WEB-UI-APPLICATION?node-id=0-1&t=wgjjvVNaD7eOtPEU-1
